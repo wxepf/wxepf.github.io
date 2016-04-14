@@ -1,0 +1,494 @@
+@charset "UTF-8";
+/**
+ * 
+ * @authors Your Name (you@example.org)
+ * @date    2016-03-28 14:41:25
+ * @version $Id$
+ */
+ body{
+ 	height: 3000px;
+ }
+.index-tab{
+position: relative;
+margin: 16px auto;
+width:978px;
+height: 213px;
+border: 1px solid #dfdfdf;
+}
+.index-tab-left{
+	float: left;
+}
+.index-tab-left .btm{
+border-right:1px solid #dfdfdf;
+border-bottom:1px solid #dfdfdf;
+width: 115px;
+height: 70px;
+line-height: 70px;
+text-align: center;
+font-size: 18px;
+color:#111;
+}
+.index-tab-left .active{
+border-bottom: 4px solid #288bff;
+border-right: none;
+font-weight: bold;
+ height: 67px;
+line-height: 67px;
+}
+.index-tab-right{
+	float: left;
+	width: 860px;
+	display: none;
+}
+.show{
+	display: block;
+}
+.index-tab-right-top{
+float: left;
+width: 860px;
+border-bottom: 1px dotted #c5c5c5;
+
+}
+.index-tab-right-top .item{
+	display: block;
+	float: left;
+	margin-left: 25px;
+	margin-top:  20px;
+	width: 80px;
+	color:#292929
+    
+}
+.index-tab-right-top img{
+	display: block;
+	border-radius:13px;
+    overflow: hidden;
+
+}
+.index-tab-right-top p{
+	margin: 10px 0;
+	text-align: center;
+	font-size: 12px;
+	line-height: 12px;
+	height: 12px;
+	overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+.index-tab-right-bottom{
+	width: 860px;
+	height: 76px;
+	overflow: hidden;
+}
+.index-tab-right-bottom .item{
+   display: block;
+   float: left;
+   width: 93px;
+   border-left: 1px solid #c5c5c5;
+   margin-top: 14px;
+   height: 14px;
+   line-height: 14px;
+   font-size: 12px;
+   text-align: center;
+   color: #111;	
+   overflow: hidden;
+   text-overflow: ellipsis;
+   white-space: nowrap;
+}
+.index-tab-inner{
+	width: 850px;
+	margin-left: -5px;
+}
+.idex-news{
+	position: relative;
+	margin: 0 auto;
+	width: 978px;
+	height: 634px;
+}
+.index-lnews{
+	float: left;
+	padding-left: 8px;
+	width: 436px;
+}
+.index-lnews-top{
+	border-top: 1px solid #dfdfdf;
+	padding-bottom:5px; 
+	width: 416px;
+	height: 212px;
+}
+.index-lnews-top h2{
+	margin-top: 25px;
+	font-size: 20px;
+	text-align: center;
+	line-height: 22px;
+	font-weight: bold;
+}
+.index-lnews-top p{
+	margin-top: 12px;
+	font-size: 14px;
+	line-height: 24px;
+}
+.index-lnews-lists{
+	border-top: 1px dotted #dfdfdf;
+	margin-top: 10px;
+	padding-top: 5px;
+	width: 424px;
+
+}
+.index-lnews-lists .index-lnews-item{
+	display: block;
+	width: 406px;
+	padding-right: 10px
+	font-size: 16px;
+	line-height: 26px;
+}
+.index-lnews-lists .index-lnews-item .label{
+	padding-right: 10px;
+	color: #288bff;
+}
+.index-lnews-lists .index-lnews-item .data{
+	font-size: 14px;
+	color: #999;
+	float: right;
+}
+.index-rnews{
+	position: relative;
+	float: left;
+	width: 530px;
+	height: 534px;
+}
+.index-lnews-top-png{
+	position: absolute;
+	width: 67px;
+	height: 64px;
+	top:0;
+	left:0;
+	background: url(../IMAGE/index-lnews-top.png) no-repeat;
+}
+.index-focus-box{
+	position: relative;
+	width: 530px;
+	height: 268px;
+
+}
+.index-focus-list li{
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 530px;
+	height: 264px;
+}
+
+.index-focus-btn{
+	position: absolute;
+     bottom: 0;
+	left: 0;
+	padding-top: 14px;
+	width: 100%;
+	height: 26px;
+	background: rgba(0,0,0,0.8);
+}
+.index-focus-btn .title{
+	display: block;
+	float: left;
+	width: 70%;
+	color: #fff;
+	font-size: 16px;
+	overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+.index-focus-btn ul{
+	padding-top: 5px;
+}
+.index-focus-btn li{
+
+	float: left;
+	margin-left: 8px;
+	width: 26px;
+	height: 5px;
+	background: #fff;
+
+}
+.index-focus-btn .active,.index-focus-btn li:hover{
+	background: #34abff;
+	cursor:pointer;
+}
+.index-focus-news{
+	padding: 7px 0;
+	width: 530px;
+	height: 110px;
+
+}
+.index-focus-lnew,.index-focus-rnew{
+    float: left;
+}
+.index-focus-lnew{
+   width: 200px;
+   height:100px;
+}
+.index-focus-rnew{
+	margin-left: 10px;
+	width: 316px;
+	height:100px;
+}
+.index-focus-rnew p{
+font-size: 14px;
+line-height: 24px;
+color: #666;
+}
+.index-focus-rnew h3{
+	font-size: 18px;
+	margin-bottom: 14px
+}
+.index-focus-new02{
+	border-top: 1px dotted #dfdfdf;
+}
+.index-news-zt{
+	width: 100%;
+	height: 100px;
+	overflow: hidden;
+
+}
+.cm-module{
+	margin: 0 auto;
+	width: 980px;
+}
+.cm-module-title{
+	border-bottom:1px solid #dfdfdf;
+	width: 100%;
+	height: 38px;
+	padding-bottom: 3px;
+}
+.cm-module-title .title{
+	float: left; 
+	border-bottom: 3px solid #288bff;
+     font-size: 18px;
+     height: 38px;
+     line-height: 38px;
+
+}
+
+.cm-module-title .btns{
+        float: right;
+    	color: #dfdfdf;
+    	padding-top: 5px;
+}
+.cm-module-title .btns:hover{
+     color: black;
+}
+.cm-module-title .btn{
+	font-size: 14px;
+	line-height: 34px;
+	height: 34px;
+
+}
+.cm-module-box{
+	margin-top: 20px;
+	overflow: hidden;
+}
+.app-download-box{
+	width: 1000px;
+	height: 200px;
+}
+.app-download-box li{
+	margin-right:30px; 
+	float: left;
+	width: 220px;
+	height: 100px;
+}
+.app-download-img,.app-download-infor{
+	float: left;
+}
+.app-download-img{
+	border-radius: 12px;
+}
+.app-download-infor{
+	margin-left: 10px;
+}
+.app-download-infor .infor-title{
+	font-size: 18px;
+}
+.app-download-infor .infor-label{
+	margin: 10px 0;
+    font-size: 14px;
+    line-height: 14px;
+    color: #666
+}
+.app-download-infor .infor-label .infor-left{
+	margin-right: 5px;
+}
+.app-download-infor .download-btn{
+	display: block;
+	width: 44px;
+	height: 20px;
+	line-height: 20px;
+	color: #fff;
+	background: #288bff;
+	font-size: 12px;
+	text-align: center;
+}
+.index-column{
+	float: left;
+	width: 690px;
+	margin-right: 10px;
+}
+.index-column-list{
+	margin-top: -16px;
+}
+
+.column-list-item{
+	margin-top: 14px;
+	border-bottom: 1px dotted #c5c5c5;
+	padding-bottom: 14px;
+	height: 80px;
+}
+.column-list-item .icon{
+	width: 178px;
+	float: left;
+}
+.column-list-item .infor-box{
+	width: 500px;
+	float: left;
+}
+.column-list-item .infor-box .title{
+	font-size: 18px;
+	color: #111;
+	font-weight: normal;
+
+}
+.column-list-item .infor-box .infor{
+	font-size: 14px;
+	line-height: 28px;
+	color: #666;
+}
+.index-activity{
+	float: right;
+	width: 280px;
+	overflow: hidden;
+}
+.index-activity-list{
+
+     width: 300px;
+     padding-bottom: 1px;
+
+}
+.index-activity-item{
+    float: left;
+	width: 88px;
+	margin-right: 10px;
+}
+.index-activity-item .log-text{
+	position: relative;
+	margin-left: 8px;
+	height: 75px;
+}
+.index-activity-item .log-text a{
+	display: block;
+}
+.index-activity-item .log-text .text{
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	width: 100%;
+	height: 20px;
+	line-height: 20px;
+	text-align: center;
+	background: rgba(0,0,0,0.5);
+	color: #fff;
+	font-size: 12px;
+}
+.activity-item-title{
+	margin-top: 10px;
+	margin-bottom: 10px;
+	width: 88px;
+}
+.activity-item-title a{
+	 display: block;
+	color: #626262;
+	font-size: 12px;
+	line-height: 1;
+
+}
+.activity-item-btn{
+	width: 80px;
+	height: 20px;
+	background: #288bff;
+
+}
+.activity-item-btn a{
+	display: block;
+    font-size: 12px;
+    color: #fff;
+    line-height: 20px;
+    text-align: center;
+}
+.activity-prize-list{
+	border-bottom: 1px dotted #c5c5c5;
+	padding: 10px 0 9px;
+
+}
+.activity-prize-list .title{
+	float: left;
+	font-size: 14px;
+	height: 20px;
+	width: 214px;
+	line-height: 20px;
+	 overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+.activity-prize-list .btm{
+	float: right;
+	height: 20px;
+	width: 44px;
+	line-height: 20px;
+	text-align: center;
+	font-size: 12px;
+	color: #fff;
+	background: #fe5a5a;
+}
+.index-strategy{
+	background: pink;
+	width:690px;
+	margin-right: 10px;
+	float: left;
+}
+.index-strategy-left{
+	width: 250px;
+	margin-right: 18px;
+	float: left;
+}
+.index-strategy-left .log-text{
+	position: relative;
+	margin-bottom: 14px;
+}
+.index-strategy-left .log-text a{
+	display: block;
+}
+.index-strategy-left .log-text .text{
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	width: 100%;
+	height: 28px;
+	line-height: 28px;
+	text-align: center;
+	background: rgba(0,0,0,0.5);
+	color: #fff;
+	font-size: 14px;
+}
+.index-strategy-right{
+	width: 420px;
+	float: right;
+
+}
+.index-strategy-right-top .title{
+   color: #288bff;
+   font-size: 20px;
+   font-weight: normal;
+}
+.index-gift{
+	background: pink;
+	width:280px;
+    float: right;
+}

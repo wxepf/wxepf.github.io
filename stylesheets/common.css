@@ -1,0 +1,114 @@
+@charset "UTF-8";
+/**
+ * 
+ * @authors Your Name (you@example.org)
+ * @date    2016-03-28 14:37:41
+ * @version $Id$
+ */
+.public-header{
+    background-color: #121212;
+}
+.public-header-nav{
+	margin:0 auto;
+	width: 980px;
+	height: 40px;
+}
+.public-header-nav-index{
+	float: left;
+	padding-left: 22px;
+	height: 40px;
+	line-height: 40px;
+	color: #ccc;
+	background: url(../IMAGE/public-header-nav-index.png) no-repeat left center;
+}
+.public-header-nav-login{
+	float:right;
+	padding-left: 28px;
+	height: 40px;
+	line-height: 40px;
+	color:#ccc;
+	background: url(../IMAGE/public-header-nav-login.png) no-repeat left center;
+}
+.public-header-nav-login a{
+	cursor:pointer;
+	color:#ccc;
+}
+.public-header-nav-login .line{
+	margin:0px 13px;
+
+}
+.public-nav{
+	height: 82px;
+	border: 1px solid #363636;
+	background-color: #2b2a2b;
+}
+.public-nav-box{
+	margin:0 auto;
+	width: 980px;
+	height:82px;
+}
+.public-nav-box-log{
+	float: left;
+	width: 212px;
+	height: 82px;
+	background: url(../IMAGE/public-nav-box-log.png) no-repeat left center;
+}
+.public-nav-box-bar{
+	float: left;
+}
+.public-nav-box-bar ul{
+	margin-top: 32px;
+	margin-left: 98px;
+	height: 20px;
+	line-height: 20px;
+}
+.public-nav-box-bar li{
+	float: left;
+	border-left:1px solid #0d0d0d;
+	border-right: 1px solid #333333;
+	padding:0 19px;
+	font-size: 18px;
+	color: #d7d7d7;
+	cursor:pointer;
+}
+.public-nav-box-bar li a{
+		color: #d7d7d7
+}
+.public-nav-box-bar li:first-child{
+	border-left: none;
+}.public-nav-box-bar li:last-child{
+	border-right: none;
+}
+.public-nav-box-bar li:hover,.public-nav-box-bar .active{
+	color: #0099ff;
+}
+.public-nav-box-search{	
+	position:  relative;
+	float: right;
+	width: 160px;
+    height: 32px;
+    margin-top: 25px;
+    padding-right: 34px;
+    background-color: #f6f6f6;
+}
+.public-nav-box-search input{
+	height: 32px;
+	width: 145px;
+	padding-left: 8px;
+	border: none;
+	background: none;
+	outline: none;
+	line-height: 32px
+
+
+}
+.public-nav-box-search .btm{
+	position: absolute;
+	top: 5px;
+	right: 0;
+	border-left: 1px solid #dfdfdf;
+	width: 34px;
+	height: 23px;
+	background: url(../IMAGE/public-nav-box-search.png) no-repeat center center;
+	cursor: pointer;
+}

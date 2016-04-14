@@ -1,0 +1,50 @@
+@charset "UTF-8";
+/**
+ * 
+ * @authors Your Name (you@example.org)
+ * @date    2016-03-28 14:39:57
+ * @version $Id$
+ */
+*{
+ 	padding: 0;
+ 	margin: 0;
+ }
+ body,html{
+ 	font-family: "Microsoft YaHei"
+ }
+ a{
+ 	text-decoration: none;
+ 	cursor: pointer;
+ 	color: #111;
+    overflow: hidden;
+ }
+ a:hover{
+ 	text-decoration: none;
+    color: #288bff;
+ }
+ li{
+ 	list-style: none;
+ }
+ img{
+ 	border: none;
+ 	display: block;
+ }
+ .clearfix:after{
+ 	display: block;
+ 	content:"";
+ 	clear:both;
+ 	visibility: hidden;
+ 	height: 0;
+
+ }
+ .clearfix{
+ 	zoom:1;
+ }
+ .textoverflow{
+ 	overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+ }
+
+
+ 
