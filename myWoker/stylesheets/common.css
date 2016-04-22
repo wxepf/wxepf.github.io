@@ -19,7 +19,7 @@
 	height: 40px;
 	line-height: 40px;
 	color: #ccc;
-	background: url(../IMAGE/public-header-nav-index.png) no-repeat left center;
+	background: url(../images/yoyo/public-header-nav-index.png) no-repeat left center;
 }
 .public-header-nav-login{
 	float:right;
@@ -27,7 +27,7 @@
 	height: 40px;
 	line-height: 40px;
 	color:#ccc;
-	background: url(../IMAGE/public-header-nav-login.png) no-repeat left center;
+	background: url(../images/yoyo/public-header-nav-login.png) no-repeat left center;
 }
 .public-header-nav-login a{
 	cursor:pointer;
@@ -51,7 +51,7 @@
 	float: left;
 	width: 212px;
 	height: 82px;
-	background: url(../IMAGE/public-nav-box-log.png) no-repeat left center;
+	background: url(../images/yoyo/public-nav-box-log.png) no-repeat left center;
 }
 .public-nav-box-bar{
 	float: left;
@@ -109,6 +109,6 @@
 	border-left: 1px solid #dfdfdf;
 	width: 34px;
 	height: 23px;
-	background: url(../IMAGE/public-nav-box-search.png) no-repeat center center;
+	background: url(../images/yoyo/public-nav-box-search.png) no-repeat center center;
 	cursor: pointer;
 }

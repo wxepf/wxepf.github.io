@@ -2,8 +2,83 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fb7f4a4b-a857-47ca-ab84-9ce0f946b503" name="默认的" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javascripts/index.js" afterPath="$PROJECT_DIR$/javascripts/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myWoker/images/yungouquanqiu/2wm.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myWoker/images/yungouquanqiu/bimg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/deom/image/cs120x74.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/deom/image/cs500x300.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myWoker/images/yungouquanqiu/fxbt.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myWoker/images/yungouquanqiu/icon_index.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myWoker/images/yungouquanqiu/index_icon_nav_112.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myWoker/images/yungouquanqiu/jd01.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myWoker/images/yungouquanqiu/jd02jpg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myWoker/images/yungouquanqiu/jd03.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myWoker/images/yungouquanqiu/jd04.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myWoker/images/yungouquanqiu/jd05.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/deom/image/jd06.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myWoker/images/yungouquanqiu/jd06.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myWoker/images/yungouquanqiu/jd07.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myWoker/images/yungouquanqiu/jd08.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myWoker/images/yungouquanqiu/kf.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myWoker/images/yungouquanqiu/kf1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myWoker/images/yungouquanqiu/left-heavy-arrow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myWoker/images/yungouquanqiu/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myWoker/images/yungouquanqiu/new-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myWoker/images/yungouquanqiu/right-heavy-arrow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myWoker/images/yungouquanqiu/top_add.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myWoker/images/yungouquanqiu/top_add2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myWoker/images/yungouquanqiu/xinl.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myWoker/images/yungouquanqiu/xinl_new.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/deom/rccszzzzzzzzzzz.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myWoker/stylesheets/reygqq.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myWoker/stylesheets/yungouquanqiu.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myWoker/yungouquanqiu.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myWoker/javascripts/yungouquanqiu.js" />
+      <change type="MOVED" beforePath="C:\github\wxepf.github.io\myWoker\IMAGE\5461ba3b0001ee3603840154.png" afterPath="$PROJECT_DIR$/myWoker/images/yoyo/5461ba3b0001ee3603840154.png" />
+      <change type="MOVED" beforePath="C:\github\wxepf.github.io\myWoker\IMAGE\applist01.png" afterPath="$PROJECT_DIR$/myWoker/images/yoyo/applist01.png" />
+      <change type="MOVED" beforePath="C:\github\wxepf.github.io\myWoker\IMAGE\bg-ramp.jpg" afterPath="$PROJECT_DIR$/myWoker/images/yoyo/bg-ramp.jpg" />
+      <change type="MOVED" beforePath="C:\github\wxepf.github.io\myWoker\IMAGE\blockquote-gfx-2x.png" afterPath="$PROJECT_DIR$/myWoker/images/yoyo/blockquote-gfx-2x.png" />
+      <change type="MOVED" beforePath="C:\github\wxepf.github.io\myWoker\IMAGE\blockquote-gfx.png" afterPath="$PROJECT_DIR$/myWoker/images/yoyo/blockquote-gfx.png" />
+      <change type="MOVED" beforePath="C:\github\wxepf.github.io\myWoker\IMAGE\chevron-2x.png" afterPath="$PROJECT_DIR$/myWoker/images/yoyo/chevron-2x.png" />
+      <change type="MOVED" beforePath="C:\github\wxepf.github.io\myWoker\IMAGE\chevron.png" afterPath="$PROJECT_DIR$/myWoker/images/yoyo/chevron.png" />
+      <change type="MOVED" beforePath="C:\github\wxepf.github.io\myWoker\IMAGE\download-fallback-bg.png" afterPath="$PROJECT_DIR$/myWoker/images/yoyo/download-fallback-bg.png" />
+      <change type="MOVED" beforePath="C:\github\wxepf.github.io\myWoker\IMAGE\download-sprite.png" afterPath="$PROJECT_DIR$/myWoker/images/yoyo/download-sprite.png" />
+      <change type="MOVED" beforePath="C:\github\wxepf.github.io\myWoker\IMAGE\footer-ramp.jpg" afterPath="$PROJECT_DIR$/myWoker/images/yoyo/footer-ramp.jpg" />
+      <change type="MOVED" beforePath="C:\github\wxepf.github.io\myWoker\IMAGE\fork-sprite.png" afterPath="$PROJECT_DIR$/myWoker/images/yoyo/fork-sprite.png" />
+      <change type="MOVED" beforePath="C:\github\wxepf.github.io\myWoker\IMAGE\hr-2x.jpg" afterPath="$PROJECT_DIR$/myWoker/images/yoyo/hr-2x.jpg" />
+      <change type="MOVED" beforePath="C:\github\wxepf.github.io\myWoker\IMAGE\hr.jpg" afterPath="$PROJECT_DIR$/myWoker/images/yoyo/hr.jpg" />
+      <change type="MOVED" beforePath="C:\github\wxepf.github.io\myWoker\IMAGE\index-activity-01.png" afterPath="$PROJECT_DIR$/myWoker/images/yoyo/index-activity-01.png" />
+      <change type="MOVED" beforePath="C:\github\wxepf.github.io\myWoker\IMAGE\index-column01.png" afterPath="$PROJECT_DIR$/myWoker/images/yoyo/index-column01.png" />
+      <change type="MOVED" beforePath="C:\github\wxepf.github.io\myWoker\IMAGE\index-focus-list01.png" afterPath="$PROJECT_DIR$/myWoker/images/yoyo/index-focus-list01.png" />
+      <change type="MOVED" beforePath="C:\github\wxepf.github.io\myWoker\IMAGE\index-focus-news-01.png" afterPath="$PROJECT_DIR$/myWoker/images/yoyo/index-focus-news-01.png" />
+      <change type="MOVED" beforePath="C:\github\wxepf.github.io\myWoker\IMAGE\index-game-guide01.png" afterPath="$PROJECT_DIR$/myWoker/images/yoyo/index-game-guide01.png" />
+      <change type="MOVED" beforePath="C:\github\wxepf.github.io\myWoker\IMAGE\index-group-img01.png" afterPath="$PROJECT_DIR$/myWoker/images/yoyo/index-group-img01.png" />
+      <change type="MOVED" beforePath="C:\github\wxepf.github.io\myWoker\IMAGE\index-lnews-top.png" afterPath="$PROJECT_DIR$/myWoker/images/yoyo/index-lnews-top.png" />
+      <change type="MOVED" beforePath="C:\github\wxepf.github.io\myWoker\IMAGE\index-news-zt.png" afterPath="$PROJECT_DIR$/myWoker/images/yoyo/index-news-zt.png" />
+      <change type="MOVED" beforePath="C:\github\wxepf.github.io\myWoker\IMAGE\index-tab-rightapp_02.png" afterPath="$PROJECT_DIR$/myWoker/images/yoyo/index-tab-rightapp_02.png" />
+      <change type="MOVED" beforePath="C:\github\wxepf.github.io\myWoker\IMAGE\octocat-2x.png" afterPath="$PROJECT_DIR$/myWoker/images/yoyo/octocat-2x.png" />
+      <change type="MOVED" beforePath="C:\github\wxepf.github.io\myWoker\IMAGE\octocat.png" afterPath="$PROJECT_DIR$/myWoker/images/yoyo/octocat.png" />
+      <change type="MOVED" beforePath="C:\github\wxepf.github.io\myWoker\IMAGE\public-header-nav-index.png" afterPath="$PROJECT_DIR$/myWoker/images/yoyo/public-header-nav-index.png" />
+      <change type="MOVED" beforePath="C:\github\wxepf.github.io\myWoker\IMAGE\public-header-nav-login.png" afterPath="$PROJECT_DIR$/myWoker/images/yoyo/public-header-nav-login.png" />
+      <change type="MOVED" beforePath="C:\github\wxepf.github.io\myWoker\IMAGE\public-nav-box-log.png" afterPath="$PROJECT_DIR$/myWoker/images/yoyo/public-nav-box-log.png" />
+      <change type="MOVED" beforePath="C:\github\wxepf.github.io\myWoker\IMAGE\public-nav-box-search.png" afterPath="$PROJECT_DIR$/myWoker/images/yoyo/public-nav-box-search.png" />
+      <change type="MOVED" beforePath="C:\github\wxepf.github.io\myWoker\IMAGE\ribbon-tail-sprite-2x.png" afterPath="$PROJECT_DIR$/myWoker/images/yoyo/ribbon-tail-sprite-2x.png" />
+      <change type="MOVED" beforePath="C:\github\wxepf.github.io\myWoker\IMAGE\ribbon-tail-sprite.png" afterPath="$PROJECT_DIR$/myWoker/images/yoyo/ribbon-tail-sprite.png" />
+      <change type="MOVED" beforePath="C:\github\wxepf.github.io\myWoker\IMAGE\shield-fallback.png" afterPath="$PROJECT_DIR$/myWoker/images/yoyo/shield-fallback.png" />
+      <change type="MOVED" beforePath="C:\github\wxepf.github.io\myWoker\IMAGE\shield.png" afterPath="$PROJECT_DIR$/myWoker/images/yoyo/shield.png" />
+      <change type="MOVED" beforePath="C:\github\wxepf.github.io\myWoker\IMAGE\site-2.png" afterPath="$PROJECT_DIR$/myWoker/images/yoyo/site-2.png" />
+      <change type="MOVED" beforePath="C:\github\wxepf.github.io\myWoker\IMAGE\small-ribbon-tail-sprite-2x.png" afterPath="$PROJECT_DIR$/myWoker/images/yoyo/small-ribbon-tail-sprite-2x.png" />
+      <change type="MOVED" beforePath="C:\github\wxepf.github.io\myWoker\IMAGE\small-ribbon-tail-sprite.png" afterPath="$PROJECT_DIR$/myWoker/images/yoyo/small-ribbon-tail-sprite.png" />
+      <change type="MOVED" beforePath="C:\github\wxepf.github.io\myWoker\IMAGE\tv_animate.png" afterPath="$PROJECT_DIR$/myWoker/images/yoyo/tv_animate.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myWoker/stylesheets/common.css" afterPath="$PROJECT_DIR$/myWoker/stylesheets/common.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myWoker/stylesheets/index.css" afterPath="$PROJECT_DIR$/myWoker/stylesheets/index.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myWoker/stylesheets/mobile.css" afterPath="$PROJECT_DIR$/myWoker/stylesheets/mobile.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myWoker/stylesheets/non-screen.css" afterPath="$PROJECT_DIR$/myWoker/stylesheets/non-screen.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myWoker/stylesheets/reset.css" afterPath="$PROJECT_DIR$/myWoker/stylesheets/reset.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myWoker/stylesheets/screen.css" afterPath="$PROJECT_DIR$/myWoker/stylesheets/screen.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myWoker/yoyo.html" afterPath="$PROJECT_DIR$/myWoker/yoyo.html" />
     </list>
     <list id="0ef0d016-613c-4fd7-aa78-773fd08edac9" name="New changelist" comment="" />
     <list id="4435288e-2aba-4855-960c-5ec9efd90b30" name="New" comment="111" />
@@ -26,26 +101,60 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="sidebar.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/deom/css/sidebar.css">
+      <file leaf-file-name="yungouquanqiu.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/myWoker/yungouquanqiu.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state vertical-scroll-proportion="-10.903226">
+              <caret line="265" column="41" selection-start-line="265" selection-start-column="41" selection-end-line="265" selection-end-column="41" />
+              <folding>
+                <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#2;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#1;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#style#0;n#a#0;n#li#0;n#ul#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#li#1;n#ul#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#li#2;n#ul#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#li#3;n#ul#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#li#4;n#ul#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#li#5;n#ul#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#li#6;n#ul#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#li#7;n#ul#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#ul#0;n#div#0;n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#li#0;n#ul#0;n#div#0;n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="yungouquanqiu.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/myWoker/stylesheets/yungouquanqiu.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.60229445">
+              <caret line="26" column="1" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="siderbar.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/deom/siderbar.html">
+      <file leaf-file-name="yungouquanqiu.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/myWoker/javascripts/yungouquanqiu.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5638298">
-              <caret line="118" column="52" selection-start-line="118" selection-start-column="52" selection-end-line="118" selection-end-column="52" />
-              <folding>
-                <element signature="n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#3;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-              </folding>
+            <state vertical-scroll-proportion="0.0">
+              <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+              <folding />
             </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="icon_index.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/myWoker/images/yungouquanqiu/icon_index.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
           </provider>
         </entry>
       </file>
@@ -55,6 +164,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="CSS File" />
+        <option value="JavaScript File" />
+        <option value="Html5" />
       </list>
     </option>
   </component>
@@ -68,14 +179,24 @@
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/stylesheets/index.css" />
         <option value="$PROJECT_DIR$/myWoker/stylesheets/common.css" />
-        <option value="$PROJECT_DIR$/myWoker/stylesheets/reset.css" />
         <option value="$PROJECT_DIR$/myWoker/yoyo.html" />
         <option value="$PROJECT_DIR$/myWoker/stylesheets/index.css" />
         <option value="$PROJECT_DIR$/javascripts/index.js" />
         <option value="$PROJECT_DIR$/deom/css/sidebar.css" />
         <option value="$PROJECT_DIR$/deom/siderbar.html" />
+        <option value="$PROJECT_DIR$/myWoker/stylesheets/reygqq.css" />
+        <option value="$PROJECT_DIR$/myWoker/stylesheets/reset.css" />
+        <option value="$PROJECT_DIR$/myWoker/javascripts/yungouquanqiu.js" />
+        <option value="$USER_HOME$/Desktop/收纳/lx cguo/motionPicture.html" />
+        <option value="$PROJECT_DIR$/deom/rccszzzzzzzzzzz.html" />
+        <option value="$PROJECT_DIR$/myWoker/stylesheets/yungouquanqiu.css" />
+        <option value="$PROJECT_DIR$/myWoker/yungouquanqiu.html" />
       </list>
     </option>
+  </component>
+  <component name="JsBowerSettings">
+    <exe-path />
+    <config-path />
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" />
   <component name="JsGulpfileManager">
@@ -85,10 +206,72 @@
     <order />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1382" />
-    <option name="height" value="784" />
+    <option name="x" value="193" />
+    <option name="y" value="87" />
+    <option name="width" value="1151" />
+    <option name="height" value="712" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Assignment issuesJavaScript</id>
+          </State>
+          <State>
+            <id>Bitwise operation issuesJavaScript</id>
+          </State>
+          <State>
+            <id>Code quality toolsJavaScript</id>
+          </State>
+          <State>
+            <id>Code style issuesJavaScript</id>
+          </State>
+          <State>
+            <id>Control flow issuesJavaScript</id>
+          </State>
+          <State>
+            <id>DOM issuesJavaScript</id>
+          </State>
+          <State>
+            <id>Data flow issuesJavaScript</id>
+          </State>
+          <State>
+            <id>Error handlingJavaScript</id>
+          </State>
+          <State>
+            <id>GeneralJavaScript</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+          <State>
+            <id>JavaScript function metricsJavaScript</id>
+          </State>
+          <State>
+            <id>JavaScript validity issuesJavaScript</id>
+          </State>
+          <State>
+            <id>Naming conventionsJavaScript</id>
+          </State>
+          <State>
+            <id>Node.jsJavaScript</id>
+          </State>
+          <State>
+            <id>Potentially confusing code constructsJavaScript</id>
+          </State>
+          <State>
+            <id>Probable bugsJavaScript</id>
+          </State>
+          <State>
+            <id>Unit testingJavaScript</id>
+          </State>
+        </expanded-state>
+      </profile-state>
+    </entry>
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="添加" />
@@ -97,7 +280,7 @@
     <OptionsSetting value="true" id="更新" />
     <OptionsSetting value="true" id="状态" />
     <OptionsSetting value="true" id="编辑" />
-    <ConfirmationsSetting value="0" id="添加" />
+    <ConfirmationsSetting value="2" id="添加" />
     <ConfirmationsSetting value="0" id="移除" />
   </component>
   <component name="ProjectView">
@@ -113,6 +296,8 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -165,15 +350,13 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="C:/Program Files/Git/git-cmd.exe" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="JavaScript.Libraries" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="FullScreen" value="false" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth0" value="133" />
@@ -193,10 +376,15 @@
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth3" value="938" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder3" value="3" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="DefaultHtmlFileTemplate" value="Html5" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\github\wxepf.github.io\deom\image" />
+      <recent name="C:\github\wxepf.github.io\myWoker\images\yungouquanqiu" />
+      <recent name="C:\github\wxepf.github.io\myWoker\images\yoyo" />
       <recent name="C:\github\wxepf.github.io\myWoker\IMAGE" />
+      <recent name="C:\github\wxepf.github.io\myWoker\IMAGE\yungouquanqiu" />
     </key>
   </component>
   <component name="RunManager">
@@ -264,29 +452,29 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
-    <editor active="false" />
+    <frame x="193" y="87" width="1151" height="712" extended-state="1" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.125" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298611" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="版本控制" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32692307" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="调试" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.28661275" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32874617" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="版本控制" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32568806" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33944955" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="运行" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="调试" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="运行" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="找到" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="找到" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32874617" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -305,11 +493,124 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/javascripts/index.js">
+    <entry file="file://$PROJECT_DIR$/myWoker/stylesheets/yungouquanqiu.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="269" column="0" selection-start-line="269" selection-start-column="0" selection-end-line="269" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myWoker/yungouquanqiu.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="98" column="26" selection-start-line="98" selection-start-column="26" selection-end-line="98" selection-end-column="47" />
+          <folding>
+            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#2;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#a#0;n#li#0;n#ul#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#li#1;n#ul#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#li#2;n#ul#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#li#3;n#ul#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#li#4;n#ul#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#li#5;n#ul#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#li#6;n#ul#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#li#7;n#ul#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#ul#0;n#div#0;n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#li#0;n#ul#0;n#div#0;n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myWoker/javascripts/yungouquanqiu.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myWoker/images/yungouquanqiu/icon_index.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myWoker/stylesheets/yungouquanqiu.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="269" column="0" selection-start-line="269" selection-start-column="0" selection-end-line="269" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myWoker/yungouquanqiu.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+          <folding>
+            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#2;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#a#0;n#li#0;n#ul#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#li#1;n#ul#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#li#2;n#ul#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#li#3;n#ul#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#li#4;n#ul#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#li#5;n#ul#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#li#6;n#ul#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#li#7;n#ul#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#ul#0;n#div#0;n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#li#0;n#ul#0;n#div#0;n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myWoker/stylesheets/yungouquanqiu.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myWoker/stylesheets/reset.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="11" selection-start-line="0" selection-start-column="11" selection-end-line="0" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deom/css/sidebar.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deom/siderbar.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javascripts/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -331,7 +632,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -353,7 +653,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -368,7 +667,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -386,23 +684,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/stylesheets/index.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.13152805">
-          <caret line="88" column="1" selection-start-line="88" selection-start-column="1" selection-end-line="88" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myWoker/IMAGE/applist01.png">
+    <entry file="file://$PROJECT_DIR$/myWoker/images/yoyo/applist01.png">
       <provider selected="true" editor-type-id="images">
         <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myWoker/stylesheets/re.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="95" column="1" selection-start-line="95" selection-start-column="1" selection-end-line="95" selection-end-column="1" />
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/myWoker/stylesheets/mobile.css">
@@ -412,14 +696,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/myWoker/stylesheets/reset.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5833333">
-          <caret line="43" column="0" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myWoker/IMAGE/index-group-img01.png">
+    <entry file="file://$PROJECT_DIR$/myWoker/images/yoyo/index-group-img01.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
@@ -431,41 +708,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/myWoker/yoyo.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.33279222">
-          <caret line="1663" column="0" selection-start-line="1664" selection-start-column="16" selection-end-line="1664" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myWoker/stylesheets/index.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.9644513">
-          <caret line="30" column="18" selection-start-line="30" selection-start-column="18" selection-end-line="30" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.9435484">
-          <caret line="31" column="12" selection-start-line="31" selection-start-column="12" selection-end-line="31" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/javascripts/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.2580645">
           <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/deom/css/sidebar.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -476,12 +722,176 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/deom/siderbar.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5638298">
+        <state vertical-scroll-proportion="0.0">
           <caret line="118" column="52" selection-start-line="118" selection-start-column="52" selection-end-line="118" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deom/css/sidebar.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myWoker/stylesheets/reygqq.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myWoker/images/yungouquanqiu/2wm.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/webstorm.jar!/resources/html5-schema/html5/phrase.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3328">
+          <caret line="326" column="16" selection-start-line="326" selection-start-column="16" selection-end-line="326" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myWoker/images/yungouquanqiu/kf.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myWoker/stylesheets/re.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="3.952">
+          <caret line="95" column="1" selection-start-line="95" selection-start-column="1" selection-end-line="95" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stylesheets/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4">
+          <caret line="76" column="0" selection-start-line="76" selection-start-column="0" selection-end-line="77" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myWoker/stylesheets/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.2928">
+          <caret line="787" column="0" selection-start-line="787" selection-start-column="0" selection-end-line="798" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myWoker/stylesheets/reset.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.08235294">
+          <caret line="33" column="0" selection-start-line="33" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.96464646">
+          <caret line="31" column="12" selection-start-line="31" selection-start-column="12" selection-end-line="31" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myWoker/yoyo.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.08922559">
+          <caret line="1639" column="40" selection-start-line="1639" selection-start-column="40" selection-end-line="1639" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myWoker/images/yungouquanqiu/logo.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myWoker/images/yungouquanqiu/top_add.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myWoker/images/yungouquanqiu/top_add2.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myWoker/images/yungouquanqiu/fxbt.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myWoker/images/yungouquanqiu/index_icon_nav_112.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myWoker/images/yungouquanqiu/new-icon.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/收纳/lx cguo/motionPicture.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-13.419354">
+          <caret line="16" column="46" selection-start-line="16" selection-start-column="46" selection-end-line="16" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deom/rccszzzzzzzzzzz.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.651341">
+          <caret line="43" column="0" selection-start-line="43" selection-start-column="0" selection-end-line="45" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myWoker/javascripts/yungouquanqiu.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myWoker/images/yungouquanqiu/icon_index.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myWoker/yungouquanqiu.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-10.903226">
+          <caret line="265" column="41" selection-start-line="265" selection-start-column="41" selection-end-line="265" selection-end-column="41" />
           <folding>
-            <element signature="n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#3;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#2;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#a#0;n#li#0;n#ul#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#li#1;n#ul#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#li#2;n#ul#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#li#3;n#ul#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#li#4;n#ul#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#li#5;n#ul#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#li#6;n#ul#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#li#7;n#ul#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#ul#0;n#div#0;n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#li#0;n#ul#0;n#div#0;n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myWoker/stylesheets/yungouquanqiu.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.60229445">
+          <caret line="26" column="1" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
+          <folding />
         </state>
       </provider>
     </entry>
