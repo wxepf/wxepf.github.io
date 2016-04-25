@@ -2,83 +2,55 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fb7f4a4b-a857-47ca-ab84-9ce0f946b503" name="默认的" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myWoker/images/yungouquanqiu/2wm.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myWoker/images/yungouquanqiu/bimg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/deom/image/cs120x74.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/deom/image/cs500x300.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myWoker/images/yungouquanqiu/fxbt.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myWoker/images/yungouquanqiu/icon_index.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myWoker/images/yungouquanqiu/index_icon_nav_112.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myWoker/images/yungouquanqiu/jd01.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myWoker/images/yungouquanqiu/jd02jpg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myWoker/images/yungouquanqiu/jd03.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myWoker/images/yungouquanqiu/jd04.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myWoker/images/yungouquanqiu/jd05.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/deom/image/jd06.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myWoker/images/yungouquanqiu/jd06.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myWoker/images/yungouquanqiu/jd07.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myWoker/images/yungouquanqiu/jd08.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myWoker/images/yungouquanqiu/kf.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myWoker/images/yungouquanqiu/kf1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myWoker/images/yungouquanqiu/left-heavy-arrow.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myWoker/images/yungouquanqiu/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myWoker/images/yungouquanqiu/new-icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myWoker/images/yungouquanqiu/right-heavy-arrow.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myWoker/images/yungouquanqiu/top_add.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myWoker/images/yungouquanqiu/top_add2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myWoker/images/yungouquanqiu/xinl.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myWoker/images/yungouquanqiu/xinl_new.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/deom/rccszzzzzzzzzzz.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myWoker/stylesheets/reygqq.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myWoker/stylesheets/yungouquanqiu.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myWoker/yungouquanqiu.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myWoker/javascripts/yungouquanqiu.js" />
-      <change type="MOVED" beforePath="C:\github\wxepf.github.io\myWoker\IMAGE\5461ba3b0001ee3603840154.png" afterPath="$PROJECT_DIR$/myWoker/images/yoyo/5461ba3b0001ee3603840154.png" />
-      <change type="MOVED" beforePath="C:\github\wxepf.github.io\myWoker\IMAGE\applist01.png" afterPath="$PROJECT_DIR$/myWoker/images/yoyo/applist01.png" />
-      <change type="MOVED" beforePath="C:\github\wxepf.github.io\myWoker\IMAGE\bg-ramp.jpg" afterPath="$PROJECT_DIR$/myWoker/images/yoyo/bg-ramp.jpg" />
-      <change type="MOVED" beforePath="C:\github\wxepf.github.io\myWoker\IMAGE\blockquote-gfx-2x.png" afterPath="$PROJECT_DIR$/myWoker/images/yoyo/blockquote-gfx-2x.png" />
-      <change type="MOVED" beforePath="C:\github\wxepf.github.io\myWoker\IMAGE\blockquote-gfx.png" afterPath="$PROJECT_DIR$/myWoker/images/yoyo/blockquote-gfx.png" />
-      <change type="MOVED" beforePath="C:\github\wxepf.github.io\myWoker\IMAGE\chevron-2x.png" afterPath="$PROJECT_DIR$/myWoker/images/yoyo/chevron-2x.png" />
-      <change type="MOVED" beforePath="C:\github\wxepf.github.io\myWoker\IMAGE\chevron.png" afterPath="$PROJECT_DIR$/myWoker/images/yoyo/chevron.png" />
-      <change type="MOVED" beforePath="C:\github\wxepf.github.io\myWoker\IMAGE\download-fallback-bg.png" afterPath="$PROJECT_DIR$/myWoker/images/yoyo/download-fallback-bg.png" />
-      <change type="MOVED" beforePath="C:\github\wxepf.github.io\myWoker\IMAGE\download-sprite.png" afterPath="$PROJECT_DIR$/myWoker/images/yoyo/download-sprite.png" />
-      <change type="MOVED" beforePath="C:\github\wxepf.github.io\myWoker\IMAGE\footer-ramp.jpg" afterPath="$PROJECT_DIR$/myWoker/images/yoyo/footer-ramp.jpg" />
-      <change type="MOVED" beforePath="C:\github\wxepf.github.io\myWoker\IMAGE\fork-sprite.png" afterPath="$PROJECT_DIR$/myWoker/images/yoyo/fork-sprite.png" />
-      <change type="MOVED" beforePath="C:\github\wxepf.github.io\myWoker\IMAGE\hr-2x.jpg" afterPath="$PROJECT_DIR$/myWoker/images/yoyo/hr-2x.jpg" />
-      <change type="MOVED" beforePath="C:\github\wxepf.github.io\myWoker\IMAGE\hr.jpg" afterPath="$PROJECT_DIR$/myWoker/images/yoyo/hr.jpg" />
-      <change type="MOVED" beforePath="C:\github\wxepf.github.io\myWoker\IMAGE\index-activity-01.png" afterPath="$PROJECT_DIR$/myWoker/images/yoyo/index-activity-01.png" />
-      <change type="MOVED" beforePath="C:\github\wxepf.github.io\myWoker\IMAGE\index-column01.png" afterPath="$PROJECT_DIR$/myWoker/images/yoyo/index-column01.png" />
-      <change type="MOVED" beforePath="C:\github\wxepf.github.io\myWoker\IMAGE\index-focus-list01.png" afterPath="$PROJECT_DIR$/myWoker/images/yoyo/index-focus-list01.png" />
-      <change type="MOVED" beforePath="C:\github\wxepf.github.io\myWoker\IMAGE\index-focus-news-01.png" afterPath="$PROJECT_DIR$/myWoker/images/yoyo/index-focus-news-01.png" />
-      <change type="MOVED" beforePath="C:\github\wxepf.github.io\myWoker\IMAGE\index-game-guide01.png" afterPath="$PROJECT_DIR$/myWoker/images/yoyo/index-game-guide01.png" />
-      <change type="MOVED" beforePath="C:\github\wxepf.github.io\myWoker\IMAGE\index-group-img01.png" afterPath="$PROJECT_DIR$/myWoker/images/yoyo/index-group-img01.png" />
-      <change type="MOVED" beforePath="C:\github\wxepf.github.io\myWoker\IMAGE\index-lnews-top.png" afterPath="$PROJECT_DIR$/myWoker/images/yoyo/index-lnews-top.png" />
-      <change type="MOVED" beforePath="C:\github\wxepf.github.io\myWoker\IMAGE\index-news-zt.png" afterPath="$PROJECT_DIR$/myWoker/images/yoyo/index-news-zt.png" />
-      <change type="MOVED" beforePath="C:\github\wxepf.github.io\myWoker\IMAGE\index-tab-rightapp_02.png" afterPath="$PROJECT_DIR$/myWoker/images/yoyo/index-tab-rightapp_02.png" />
-      <change type="MOVED" beforePath="C:\github\wxepf.github.io\myWoker\IMAGE\octocat-2x.png" afterPath="$PROJECT_DIR$/myWoker/images/yoyo/octocat-2x.png" />
-      <change type="MOVED" beforePath="C:\github\wxepf.github.io\myWoker\IMAGE\octocat.png" afterPath="$PROJECT_DIR$/myWoker/images/yoyo/octocat.png" />
-      <change type="MOVED" beforePath="C:\github\wxepf.github.io\myWoker\IMAGE\public-header-nav-index.png" afterPath="$PROJECT_DIR$/myWoker/images/yoyo/public-header-nav-index.png" />
-      <change type="MOVED" beforePath="C:\github\wxepf.github.io\myWoker\IMAGE\public-header-nav-login.png" afterPath="$PROJECT_DIR$/myWoker/images/yoyo/public-header-nav-login.png" />
-      <change type="MOVED" beforePath="C:\github\wxepf.github.io\myWoker\IMAGE\public-nav-box-log.png" afterPath="$PROJECT_DIR$/myWoker/images/yoyo/public-nav-box-log.png" />
-      <change type="MOVED" beforePath="C:\github\wxepf.github.io\myWoker\IMAGE\public-nav-box-search.png" afterPath="$PROJECT_DIR$/myWoker/images/yoyo/public-nav-box-search.png" />
-      <change type="MOVED" beforePath="C:\github\wxepf.github.io\myWoker\IMAGE\ribbon-tail-sprite-2x.png" afterPath="$PROJECT_DIR$/myWoker/images/yoyo/ribbon-tail-sprite-2x.png" />
-      <change type="MOVED" beforePath="C:\github\wxepf.github.io\myWoker\IMAGE\ribbon-tail-sprite.png" afterPath="$PROJECT_DIR$/myWoker/images/yoyo/ribbon-tail-sprite.png" />
-      <change type="MOVED" beforePath="C:\github\wxepf.github.io\myWoker\IMAGE\shield-fallback.png" afterPath="$PROJECT_DIR$/myWoker/images/yoyo/shield-fallback.png" />
-      <change type="MOVED" beforePath="C:\github\wxepf.github.io\myWoker\IMAGE\shield.png" afterPath="$PROJECT_DIR$/myWoker/images/yoyo/shield.png" />
-      <change type="MOVED" beforePath="C:\github\wxepf.github.io\myWoker\IMAGE\site-2.png" afterPath="$PROJECT_DIR$/myWoker/images/yoyo/site-2.png" />
-      <change type="MOVED" beforePath="C:\github\wxepf.github.io\myWoker\IMAGE\small-ribbon-tail-sprite-2x.png" afterPath="$PROJECT_DIR$/myWoker/images/yoyo/small-ribbon-tail-sprite-2x.png" />
-      <change type="MOVED" beforePath="C:\github\wxepf.github.io\myWoker\IMAGE\small-ribbon-tail-sprite.png" afterPath="$PROJECT_DIR$/myWoker/images/yoyo/small-ribbon-tail-sprite.png" />
-      <change type="MOVED" beforePath="C:\github\wxepf.github.io\myWoker\IMAGE\tv_animate.png" afterPath="$PROJECT_DIR$/myWoker/images/yoyo/tv_animate.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myWoker/stylesheets/common.css" afterPath="$PROJECT_DIR$/myWoker/stylesheets/common.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myWoker/images/yungouquanqiu/bj8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myWoker/images/yungouquanqiu/bj_time.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myWoker/images/yungouquanqiu/car.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myWoker/images/yungouquanqiu/car2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myWoker/images/yungouquanqiu/car3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myWoker/images/yungouquanqiu/car4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myWoker/images/yungouquanqiu/car5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myWoker/images/yungouquanqiu/car6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myWoker/images/yungouquanqiu/car7.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myWoker/images/yungouquanqiu/car8.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myWoker/images/yungouquanqiu/car9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myWoker/images/yungouquanqiu/closs.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myWoker/images/yungouquanqiu/cloud_kik.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myWoker/images/yungouquanqiu/foot.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myWoker/images/yungouquanqiu/foot1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myWoker/images/yungouquanqiu/fx1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myWoker/images/yungouquanqiu/fx2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myWoker/images/yungouquanqiu/hot.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myWoker/images/yungouquanqiu/hot1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myWoker/images/yungouquanqiu/hot2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myWoker/images/yungouquanqiu/icon_footer.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myWoker/images/yungouquanqiu/icon_footer2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myWoker/images/yungouquanqiu/index_btn.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myWoker/images/yungouquanqiu/index_btn2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myWoker/images/yungouquanqiu/phone.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myWoker/images/yungouquanqiu/r-fixed1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myWoker/images/yungouquanqiu/r-fixed2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myWoker/images/yungouquanqiu/r-fixed3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myWoker/images/yungouquanqiu/r-fixed4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myWoker/images/yungouquanqiu/r-fixed5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myWoker/images/yungouquanqiu/r-fixed6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myWoker/images/yungouquanqiu/ten_02.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myWoker/images/yungouquanqiu/ten_03.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myWoker/images/yungouquanqiu/time.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myWoker/rccszzzzzzzzzzz.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/typescript-compiler.xml" />
+      <change type="DELETED" beforePath="C:\github\wxepf.github.io\deom\rccszzzzzzzzzzz.html" afterPath="" />
+      <change type="MOVED" beforePath="C:\github\wxepf.github.io\myWoker\images\yungouquanqiu\jd02jpg.jpg" afterPath="$PROJECT_DIR$/myWoker/images/yungouquanqiu/jd02.jpg" />
+      <change type="MOVED" beforePath="C:\github\wxepf.github.io\myWoker\javascripts\headsmart.min.js" afterPath="$PROJECT_DIR$/myWoker/javascript/headsmart.min.js" />
+      <change type="MOVED" beforePath="C:\github\wxepf.github.io\myWoker\javascripts\main.js" afterPath="$PROJECT_DIR$/myWoker/javascript/main.js" />
+      <change type="MOVED" beforePath="C:\github\wxepf.github.io\myWoker\javascripts\modernizr.js" afterPath="$PROJECT_DIR$/myWoker/javascript/modernizr.js" />
+      <change type="MOVED" beforePath="C:\github\wxepf.github.io\myWoker\javascripts\my.js" afterPath="$PROJECT_DIR$/myWoker/javascript/my.js" />
+      <change type="MOVED" beforePath="C:\github\wxepf.github.io\myWoker\javascripts\yungouquanqiu.js" afterPath="$PROJECT_DIR$/myWoker/javascript/yungouquanqiu.js" />
+      <change type="MOVED" beforePath="C:\github\wxepf.github.io\myWoker\stylesheets\yungouquanqiu.css" afterPath="$PROJECT_DIR$/myWoker/stylesheets/yungouquanqiu/yungouquanqiu.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myWoker/stylesheets/index.css" afterPath="$PROJECT_DIR$/myWoker/stylesheets/index.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myWoker/stylesheets/mobile.css" afterPath="$PROJECT_DIR$/myWoker/stylesheets/mobile.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myWoker/stylesheets/non-screen.css" afterPath="$PROJECT_DIR$/myWoker/stylesheets/non-screen.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myWoker/stylesheets/reset.css" afterPath="$PROJECT_DIR$/myWoker/stylesheets/reset.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myWoker/stylesheets/screen.css" afterPath="$PROJECT_DIR$/myWoker/stylesheets/screen.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myWoker/yoyo.html" afterPath="$PROJECT_DIR$/myWoker/yoyo.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/wxepf.github.io.iml" afterPath="$PROJECT_DIR$/.idea/wxepf.github.io.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myWoker/yungouquanqiu.html" afterPath="$PROJECT_DIR$/myWoker/yungouquanqiu.html" />
     </list>
     <list id="0ef0d016-613c-4fd7-aa78-773fd08edac9" name="New changelist" comment="" />
     <list id="4435288e-2aba-4855-960c-5ec9efd90b30" name="New" comment="111" />
@@ -101,19 +73,103 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
+      <file leaf-file-name="yungouquanqiu.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/myWoker/stylesheets/yungouquanqiu/yungouquanqiu.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-1.1463414">
+              <caret line="1107" column="17" selection-start-line="1107" selection-start-column="17" selection-end-line="1107" selection-end-column="17" />
+              <folding>
+                <element signature="e#251#289#0" expanded="false" />
+                <element signature="e#326#592#0" expanded="false" />
+                <element signature="e#628#741#0" expanded="false" />
+                <element signature="e#779#808#0" expanded="false" />
+                <element signature="e#1068#1121#0" expanded="false" />
+                <element signature="e#1130#1185#0" expanded="false" />
+                <element signature="e#1208#1343#0" expanded="false" />
+                <element signature="e#1371#1418#0" expanded="false" />
+                <element signature="e#1448#1609#0" expanded="false" />
+                <element signature="e#1639#1703#0" expanded="false" />
+                <element signature="e#1713#1777#0" expanded="false" />
+                <element signature="e#1792#1851#0" expanded="false" />
+                <element signature="e#1865#1886#0" expanded="false" />
+                <element signature="e#1903#2047#0" expanded="false" />
+                <element signature="e#2056#2106#0" expanded="false" />
+                <element signature="e#2117#2147#0" expanded="false" />
+                <element signature="e#2403#2566#0" expanded="false" />
+                <element signature="e#2586#2664#0" expanded="false" />
+                <element signature="e#2700#2893#0" expanded="false" />
+                <element signature="e#2905#3156#0" expanded="false" />
+                <element signature="e#3167#3418#0" expanded="false" />
+                <element signature="e#3470#3733#0" expanded="false" />
+                <element signature="e#3764#3831#0" expanded="false" />
+                <element signature="e#3851#4019#0" expanded="false" />
+                <element signature="e#4045#4092#0" expanded="false" />
+                <element signature="e#4106#4281#0" expanded="false" />
+                <element signature="e#4310#4415#0" expanded="false" />
+                <element signature="e#4426#4470#0" expanded="false" />
+                <element signature="e#4484#4641#0" expanded="false" />
+                <element signature="e#4689#4734#0" expanded="false" />
+                <element signature="e#4754#4796#0" expanded="false" />
+                <element signature="e#4821#4842#0" expanded="false" />
+                <element signature="e#4868#4890#0" expanded="false" />
+                <element signature="e#4947#5055#0" expanded="false" />
+                <element signature="e#5261#5389#0" expanded="false" />
+                <element signature="e#5423#5561#0" expanded="false" />
+                <element signature="e#5593#5675#0" expanded="false" />
+                <element signature="e#5713#5741#0" expanded="false" />
+                <element signature="e#5779#5818#0" expanded="false" />
+                <element signature="e#5855#5928#0" expanded="false" />
+                <element signature="e#5971#6048#0" expanded="false" />
+                <element signature="e#6087#6125#0" expanded="false" />
+                <element signature="e#6170#6208#0" expanded="false" />
+                <element signature="e#6247#6318#0" expanded="false" />
+                <element signature="e#6363#6435#0" expanded="false" />
+                <element signature="e#6473#6537#0" expanded="false" />
+                <element signature="e#6580#6606#0" expanded="false" />
+                <element signature="e#6644#6691#0" expanded="false" />
+                <element signature="e#6736#6793#0" expanded="false" />
+                <element signature="e#6827#6855#0" expanded="false" />
+                <element signature="e#7109#7263#0" expanded="false" />
+                <element signature="e#7307#7334#0" expanded="false" />
+                <element signature="e#7438#7573#0" expanded="false" />
+                <element signature="e#7614#7641#0" expanded="false" />
+                <element signature="e#7894#7934#0" expanded="false" />
+                <element signature="e#12141#12182#0" expanded="false" />
+                <element signature="e#12311#12431#0" expanded="false" />
+                <element signature="e#12454#12501#0" expanded="false" />
+                <element signature="e#13331#13373#0" expanded="false" />
+                <element signature="e#13383#13512#0" expanded="false" />
+                <element signature="e#13527#13554#0" expanded="false" />
+                <element signature="e#13575#13595#0" expanded="false" />
+                <element signature="e#13622#13801#0" expanded="false" />
+                <element signature="e#13822#13843#0" expanded="false" />
+                <element signature="e#13859#13974#0" expanded="false" />
+                <element signature="e#13993#14014#0" expanded="false" />
+                <element signature="e#14042#14062#0" expanded="false" />
+                <element signature="e#14089#14109#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="yungouquanqiu.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/myWoker/javascript/yungouquanqiu.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.6698873">
+              <caret line="41" column="30" selection-start-line="41" selection-start-column="30" selection-end-line="41" selection-end-column="30" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="yungouquanqiu.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/myWoker/yungouquanqiu.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-10.903226">
-              <caret line="265" column="41" selection-start-line="265" selection-start-column="41" selection-end-line="265" selection-end-column="41" />
+            <state vertical-scroll-proportion="-2.7868853">
+              <caret line="1688" column="19" selection-start-line="1688" selection-start-column="19" selection-end-line="1688" selection-end-column="35" />
               <folding>
-                <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#2;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#1;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#li#8;n#ul#0;n#div#1;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#style#0;n#a#0;n#li#0;n#ul#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#a#0;n#li#1;n#ul#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -123,38 +179,67 @@
                 <element signature="n#style#0;n#a#0;n#li#5;n#ul#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#a#0;n#li#6;n#ul#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#a#0;n#li#7;n#ul#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#ol#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#ul#0;n#div#0;n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#li#0;n#ul#0;n#div#0;n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#h3#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#ul#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#h3#0;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#ul#0;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#2;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#h3#0;n#div#2;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#ul#0;n#div#2;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#3;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#h3#0;n#div#4;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#5;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#6;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#7;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#8;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#9;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#10;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#0;n#div#10;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#li#0;n#ul#0;n#div#0;n#div#10;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#li#1;n#ul#0;n#div#0;n#div#10;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#li#2;n#ul#0;n#div#0;n#div#10;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#li#3;n#ul#0;n#div#0;n#div#10;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#li#0;n#ul#0;n#div#1;n#div#10;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#li#1;n#ul#0;n#div#1;n#div#10;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#a#0;n#li#1;n#ul#0;n#div#1;n#div#10;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#li#2;n#ul#0;n#div#1;n#div#10;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#li#3;n#ul#0;n#div#1;n#div#10;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#a#0;n#li#3;n#ul#0;n#div#1;n#div#10;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#li#4;n#ul#0;n#div#1;n#div#10;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#li#5;n#ul#0;n#div#1;n#div#10;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#a#0;n#li#5;n#ul#0;n#div#1;n#div#10;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#style#0;n#span#0;n#li#0;n#ul#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#li#1;n#ul#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#li#2;n#ul#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#li#3;n#ul#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#dl#1;n#div#0;n#div#1;n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#dl#2;n#div#0;n#div#1;n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#dl#3;n#div#0;n#div#1;n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#li#0;n#ul#0;n#div#0;n#div#0;n#div#1;n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#li#1;n#ul#0;n#div#0;n#div#0;n#div#1;n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#li#2;n#ul#0;n#div#0;n#div#0;n#div#1;n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#li#3;n#ul#0;n#div#0;n#div#0;n#div#1;n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#p#0;n#div#1;n#div#1;n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#style#0;n#li#1;n#ul#0;n#div#1;n#div#1;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#li#2;n#ul#0;n#div#1;n#div#1;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#li#3;n#ul#0;n#div#1;n#div#1;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#div#4;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#li#0;n#ul#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#style#0;n#span#0;n#a#0;n#li#1;n#ul#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#a#0;n#li#2;n#ul#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#a#0;n#li#3;n#ul#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#a#0;n#li#4;n#ul#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#a#0;n#li#5;n#ul#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#a#0;n#li#6;n#ul#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#a#0;n#li#7;n#ul#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#a#0;n#li#8;n#ul#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="yungouquanqiu.css" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/myWoker/stylesheets/yungouquanqiu.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.60229445">
-              <caret line="26" column="1" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="yungouquanqiu.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/myWoker/javascripts/yungouquanqiu.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="icon_index.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/myWoker/images/yungouquanqiu/icon_index.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
           </provider>
         </entry>
       </file>
@@ -185,12 +270,15 @@
         <option value="$PROJECT_DIR$/deom/css/sidebar.css" />
         <option value="$PROJECT_DIR$/deom/siderbar.html" />
         <option value="$PROJECT_DIR$/myWoker/stylesheets/reygqq.css" />
-        <option value="$PROJECT_DIR$/myWoker/stylesheets/reset.css" />
         <option value="$PROJECT_DIR$/myWoker/javascripts/yungouquanqiu.js" />
         <option value="$USER_HOME$/Desktop/收纳/lx cguo/motionPicture.html" />
         <option value="$PROJECT_DIR$/deom/rccszzzzzzzzzzz.html" />
         <option value="$PROJECT_DIR$/myWoker/stylesheets/yungouquanqiu.css" />
+        <option value="$PROJECT_DIR$/myWoker/rccszzzzzzzzzzz.html" />
+        <option value="$PROJECT_DIR$/myWoker/stylesheets/reset.css" />
         <option value="$PROJECT_DIR$/myWoker/yungouquanqiu.html" />
+        <option value="$PROJECT_DIR$/myWoker/stylesheets/yungouquanqiu/yungouquanqiu.css" />
+        <option value="$PROJECT_DIR$/myWoker/javascript/yungouquanqiu.js" />
       </list>
     </option>
   </component>
@@ -206,10 +294,9 @@
     <order />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="193" />
-    <option name="y" value="87" />
-    <option name="width" value="1151" />
-    <option name="height" value="712" />
+    <option name="x" value="-92" />
+    <option name="width" value="1383" />
+    <option name="height" value="788" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -270,6 +357,11 @@
             <id>Unit testingJavaScript</id>
           </State>
         </expanded-state>
+        <selected-state>
+          <State>
+            <id>CoffeeScript</id>
+          </State>
+        </selected-state>
       </profile-state>
     </entry>
   </component>
@@ -296,8 +388,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -326,7 +416,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="deom" />
+              <option name="myItemId" value="myWoker" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -340,16 +430,58 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="deom" />
+              <option name="myItemId" value="myWoker" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="image" />
+              <option name="myItemId" value="stylesheets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wxepf.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wxepf.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="myWoker" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="images" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="yungouquanqiu" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wxepf.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wxepf.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="myWoker" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="images" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -357,7 +489,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="settings.editor.selected.configurable" value="JavaScript.Libraries" />
-    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="settings.editor.splitter.proportion" value="0.21645446" />
     <property name="FullScreen" value="false" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth0" value="133" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder0" value="0" />
@@ -377,17 +509,24 @@
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder3" value="3" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
+    <property name="recentsLimit" value="5" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\github\wxepf.github.io\deom\image" />
+    <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\github\wxepf.github.io\myWoker\images\yungouquanqiu" />
-      <recent name="C:\github\wxepf.github.io\myWoker\images\yoyo" />
-      <recent name="C:\github\wxepf.github.io\myWoker\IMAGE" />
-      <recent name="C:\github\wxepf.github.io\myWoker\IMAGE\yungouquanqiu" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\github\wxepf.github.io\myWoker\images\yungouquanqiu" />
+      <recent name="C:\github\wxepf.github.io\myWoker\stylesheets\yungouquanqiu" />
+      <recent name="C:\github\wxepf.github.io\myWoker" />
+      <recent name="C:\github\wxepf.github.io\myWoker\images" />
+      <recent name="C:\github\wxepf.github.io\deom\image" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JavaScript Debug.yungouquanqiu.html">
+    <configuration default="false" name="yungouquanqiu.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:1205/wxepf.github.io/myWoker/yungouquanqiu.html">
+      <method />
+    </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
       <method />
     </configuration>
@@ -426,6 +565,14 @@
       <envs />
       <method />
     </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.yungouquanqiu.html" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.yungouquanqiu.html" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
   <component name="SvnConfiguration">
@@ -452,30 +599,52 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="193" y="87" width="1151" height="712" extended-state="1" />
-    <editor active="true" />
+    <frame x="-92" y="0" width="1383" height="788" extended-state="0" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.28661275" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21360643" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32874617" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="版本控制" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32568806" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="调试" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32988167" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33944955" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="运行" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="调试" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="运行" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="找到" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32874617" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
     </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32874617" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="调试" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33944955" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="运行" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23511904" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="版本控制" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32568806" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="找到" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32874617" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
   </component>
   <component name="Vcs.Log.UiProperties">
     <option name="RECENTLY_FILTERED_USER_GROUPS">
@@ -492,61 +661,93 @@
     <breakpoint-manager />
     <watches-manager />
   </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <PATH>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="wxepf.github.io" />
+        <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="wxepf.github.io" />
+        <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+      </PATH_ELEMENT>
+    </PATH>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/myWoker/stylesheets/yungouquanqiu.css">
+    <entry file="file://$PROJECT_DIR$/myWoker/stylesheets/yungouquanqiu/yungouquanqiu.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="269" column="0" selection-start-line="269" selection-start-column="0" selection-end-line="269" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myWoker/yungouquanqiu.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="98" column="26" selection-start-line="98" selection-start-column="26" selection-end-line="98" selection-end-column="47" />
           <folding>
-            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#2;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#1;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#a#0;n#li#0;n#ul#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#0;n#li#1;n#ul#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#0;n#li#2;n#ul#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#0;n#li#3;n#ul#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#0;n#li#4;n#ul#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#0;n#li#5;n#ul#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#0;n#li#6;n#ul#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#0;n#li#7;n#ul#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#ul#0;n#div#0;n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#li#0;n#ul#0;n#div#0;n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="e#251#289#0" expanded="false" />
+            <element signature="e#326#592#0" expanded="false" />
+            <element signature="e#628#741#0" expanded="false" />
+            <element signature="e#779#808#0" expanded="false" />
+            <element signature="e#1068#1121#0" expanded="false" />
+            <element signature="e#1130#1185#0" expanded="false" />
+            <element signature="e#1208#1343#0" expanded="false" />
+            <element signature="e#1371#1418#0" expanded="false" />
+            <element signature="e#1448#1609#0" expanded="false" />
+            <element signature="e#1639#1703#0" expanded="false" />
+            <element signature="e#1713#1777#0" expanded="false" />
+            <element signature="e#1792#1851#0" expanded="false" />
+            <element signature="e#1865#1886#0" expanded="false" />
+            <element signature="e#1903#2047#0" expanded="false" />
+            <element signature="e#2056#2106#0" expanded="false" />
+            <element signature="e#2117#2147#0" expanded="false" />
+            <element signature="e#2403#2566#0" expanded="false" />
+            <element signature="e#2586#2664#0" expanded="false" />
+            <element signature="e#2700#2893#0" expanded="false" />
+            <element signature="e#2905#3156#0" expanded="false" />
+            <element signature="e#3167#3418#0" expanded="false" />
+            <element signature="e#3470#3733#0" expanded="false" />
+            <element signature="e#3764#3831#0" expanded="false" />
+            <element signature="e#3851#4019#0" expanded="false" />
+            <element signature="e#4045#4092#0" expanded="false" />
+            <element signature="e#4106#4281#0" expanded="false" />
+            <element signature="e#4310#4415#0" expanded="false" />
+            <element signature="e#4426#4470#0" expanded="false" />
+            <element signature="e#4484#4641#0" expanded="false" />
+            <element signature="e#4689#4734#0" expanded="false" />
+            <element signature="e#4754#4796#0" expanded="false" />
+            <element signature="e#4821#4842#0" expanded="false" />
+            <element signature="e#4868#4890#0" expanded="false" />
+            <element signature="e#4947#5055#0" expanded="false" />
+            <element signature="e#5261#5389#0" expanded="false" />
+            <element signature="e#5423#5561#0" expanded="false" />
+            <element signature="e#5593#5675#0" expanded="false" />
+            <element signature="e#5713#5741#0" expanded="false" />
+            <element signature="e#5779#5818#0" expanded="false" />
+            <element signature="e#5855#5928#0" expanded="false" />
+            <element signature="e#5971#6048#0" expanded="false" />
+            <element signature="e#6087#6125#0" expanded="false" />
+            <element signature="e#6170#6208#0" expanded="false" />
+            <element signature="e#6247#6318#0" expanded="false" />
+            <element signature="e#6363#6435#0" expanded="false" />
+            <element signature="e#6473#6537#0" expanded="false" />
+            <element signature="e#6580#6606#0" expanded="false" />
+            <element signature="e#6644#6691#0" expanded="false" />
+            <element signature="e#6736#6793#0" expanded="false" />
+            <element signature="e#6827#6855#0" expanded="false" />
+            <element signature="e#7109#7263#0" expanded="false" />
+            <element signature="e#7307#7334#0" expanded="false" />
+            <element signature="e#7438#7573#0" expanded="false" />
+            <element signature="e#7614#7641#0" expanded="false" />
+            <element signature="e#7894#7934#0" expanded="false" />
+            <element signature="e#12141#12182#0" expanded="false" />
+            <element signature="e#12311#12431#0" expanded="false" />
+            <element signature="e#12454#12501#0" expanded="false" />
+            <element signature="e#13331#13373#0" expanded="false" />
+            <element signature="e#13383#13512#0" expanded="false" />
+            <element signature="e#13527#13554#0" expanded="false" />
+            <element signature="e#13575#13595#0" expanded="false" />
+            <element signature="e#13622#13801#0" expanded="false" />
+            <element signature="e#13822#13843#0" expanded="false" />
+            <element signature="e#13859#13974#0" expanded="false" />
+            <element signature="e#13993#14014#0" expanded="false" />
+            <element signature="e#14042#14062#0" expanded="false" />
+            <element signature="e#14089#14109#0" expanded="false" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myWoker/javascripts/yungouquanqiu.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myWoker/images/yungouquanqiu/icon_index.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myWoker/stylesheets/yungouquanqiu.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="269" column="0" selection-start-line="269" selection-start-column="0" selection-end-line="269" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -555,13 +756,8 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
           <folding>
-            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#2;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#1;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#li#8;n#ul#0;n#div#1;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#style#0;n#a#0;n#li#0;n#ul#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#a#0;n#li#1;n#ul#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -571,18 +767,143 @@
             <element signature="n#style#0;n#a#0;n#li#5;n#ul#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#a#0;n#li#6;n#ul#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#a#0;n#li#7;n#ul#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#ol#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#ul#0;n#div#0;n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#li#0;n#ul#0;n#div#0;n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#h3#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#ul#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#h3#0;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#ul#0;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#2;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#h3#0;n#div#2;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#ul#0;n#div#2;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#3;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#h3#0;n#div#4;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#5;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#6;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#7;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#8;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#9;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#10;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#10;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#li#0;n#ul#0;n#div#0;n#div#10;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#li#1;n#ul#0;n#div#0;n#div#10;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#li#2;n#ul#0;n#div#0;n#div#10;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#li#3;n#ul#0;n#div#0;n#div#10;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#li#0;n#ul#0;n#div#1;n#div#10;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#li#1;n#ul#0;n#div#1;n#div#10;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a#0;n#li#1;n#ul#0;n#div#1;n#div#10;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#li#2;n#ul#0;n#div#1;n#div#10;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#li#3;n#ul#0;n#div#1;n#div#10;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a#0;n#li#3;n#ul#0;n#div#1;n#div#10;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#li#4;n#ul#0;n#div#1;n#div#10;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#li#5;n#ul#0;n#div#1;n#div#10;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a#0;n#li#5;n#ul#0;n#div#1;n#div#10;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#span#0;n#li#0;n#ul#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#li#1;n#ul#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#li#2;n#ul#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#li#3;n#ul#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#dl#1;n#div#0;n#div#1;n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#dl#2;n#div#0;n#div#1;n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#dl#3;n#div#0;n#div#1;n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#li#0;n#ul#0;n#div#0;n#div#0;n#div#1;n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#li#1;n#ul#0;n#div#0;n#div#0;n#div#1;n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#li#2;n#ul#0;n#div#0;n#div#0;n#div#1;n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#li#3;n#ul#0;n#div#0;n#div#0;n#div#1;n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#p#0;n#div#1;n#div#1;n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#li#1;n#ul#0;n#div#1;n#div#1;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#2;n#ul#0;n#div#1;n#div#1;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#3;n#ul#0;n#div#1;n#div#1;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#4;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#li#0;n#ul#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#span#0;n#a#0;n#li#1;n#ul#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#a#0;n#li#2;n#ul#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#a#0;n#li#3;n#ul#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#a#0;n#li#4;n#ul#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#a#0;n#li#5;n#ul#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#a#0;n#li#6;n#ul#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#a#0;n#li#7;n#ul#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#a#0;n#li#8;n#ul#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/myWoker/stylesheets/yungouquanqiu.css">
+    <entry file="file://$PROJECT_DIR$/myWoker/stylesheets/yungouquanqiu/yungouquanqiu.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="e#251#289#0" expanded="false" />
+            <element signature="e#326#592#0" expanded="false" />
+            <element signature="e#628#741#0" expanded="false" />
+            <element signature="e#779#808#0" expanded="false" />
+            <element signature="e#1068#1121#0" expanded="false" />
+            <element signature="e#1130#1185#0" expanded="false" />
+            <element signature="e#1208#1343#0" expanded="false" />
+            <element signature="e#1371#1418#0" expanded="false" />
+            <element signature="e#1448#1609#0" expanded="false" />
+            <element signature="e#1639#1703#0" expanded="false" />
+            <element signature="e#1713#1777#0" expanded="false" />
+            <element signature="e#1792#1851#0" expanded="false" />
+            <element signature="e#1865#1886#0" expanded="false" />
+            <element signature="e#1903#2047#0" expanded="false" />
+            <element signature="e#2056#2106#0" expanded="false" />
+            <element signature="e#2117#2147#0" expanded="false" />
+            <element signature="e#2403#2566#0" expanded="false" />
+            <element signature="e#2586#2664#0" expanded="false" />
+            <element signature="e#2700#2893#0" expanded="false" />
+            <element signature="e#2905#3156#0" expanded="false" />
+            <element signature="e#3167#3418#0" expanded="false" />
+            <element signature="e#3470#3733#0" expanded="false" />
+            <element signature="e#3764#3831#0" expanded="false" />
+            <element signature="e#3851#4019#0" expanded="false" />
+            <element signature="e#4045#4092#0" expanded="false" />
+            <element signature="e#4106#4281#0" expanded="false" />
+            <element signature="e#4310#4415#0" expanded="false" />
+            <element signature="e#4426#4470#0" expanded="false" />
+            <element signature="e#4484#4641#0" expanded="false" />
+            <element signature="e#4689#4734#0" expanded="false" />
+            <element signature="e#4754#4796#0" expanded="false" />
+            <element signature="e#4821#4842#0" expanded="false" />
+            <element signature="e#4868#4890#0" expanded="false" />
+            <element signature="e#4947#5055#0" expanded="false" />
+            <element signature="e#5261#5389#0" expanded="false" />
+            <element signature="e#5423#5561#0" expanded="false" />
+            <element signature="e#5593#5675#0" expanded="false" />
+            <element signature="e#5713#5741#0" expanded="false" />
+            <element signature="e#5779#5818#0" expanded="false" />
+            <element signature="e#5855#5928#0" expanded="false" />
+            <element signature="e#5971#6048#0" expanded="false" />
+            <element signature="e#6087#6125#0" expanded="false" />
+            <element signature="e#6170#6208#0" expanded="false" />
+            <element signature="e#6247#6318#0" expanded="false" />
+            <element signature="e#6363#6435#0" expanded="false" />
+            <element signature="e#6473#6537#0" expanded="false" />
+            <element signature="e#6580#6606#0" expanded="false" />
+            <element signature="e#6644#6691#0" expanded="false" />
+            <element signature="e#6736#6793#0" expanded="false" />
+            <element signature="e#6827#6855#0" expanded="false" />
+            <element signature="e#7109#7263#0" expanded="false" />
+            <element signature="e#7307#7334#0" expanded="false" />
+            <element signature="e#7438#7573#0" expanded="false" />
+            <element signature="e#7614#7641#0" expanded="false" />
+            <element signature="e#7894#7934#0" expanded="false" />
+            <element signature="e#12141#12182#0" expanded="false" />
+            <element signature="e#12311#12431#0" expanded="false" />
+            <element signature="e#12454#12501#0" expanded="false" />
+            <element signature="e#13331#13373#0" expanded="false" />
+            <element signature="e#13383#13512#0" expanded="false" />
+            <element signature="e#13527#13554#0" expanded="false" />
+            <element signature="e#13575#13595#0" expanded="false" />
+            <element signature="e#13622#13801#0" expanded="false" />
+            <element signature="e#13822#13843#0" expanded="false" />
+            <element signature="e#13859#13974#0" expanded="false" />
+            <element signature="e#13993#14014#0" expanded="false" />
+            <element signature="e#14042#14062#0" expanded="false" />
+            <element signature="e#14089#14109#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -779,13 +1100,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/myWoker/stylesheets/reset.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.08235294">
-          <caret line="33" column="0" selection-start-line="33" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.96464646">
@@ -825,33 +1139,31 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/myWoker/images/yungouquanqiu/new-icon.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/Desktop/收纳/lx cguo/motionPicture.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-13.419354">
           <caret line="16" column="46" selection-start-line="16" selection-start-column="46" selection-end-line="16" selection-end-column="46" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/deom/rccszzzzzzzzzzz.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.651341">
-          <caret line="43" column="0" selection-start-line="43" selection-start-column="0" selection-end-line="45" selection-end-column="33" />
-          <folding />
-        </state>
+    <entry file="file://$PROJECT_DIR$/myWoker/images/yungouquanqiu/ten_02.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/myWoker/javascripts/yungouquanqiu.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding />
-        </state>
+    <entry file="file://$PROJECT_DIR$/myWoker/images/yungouquanqiu/xinl.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myWoker/images/yungouquanqiu/icon_footer2.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myWoker/images/yungouquanqiu/new-icon.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/myWoker/images/yungouquanqiu/icon_index.png">
@@ -859,18 +1171,36 @@
         <state />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/myWoker/stylesheets/reset.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.56067586">
+          <caret line="36" column="16" selection-start-line="36" selection-start-column="16" selection-end-line="36" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myWoker/rccszzzzzzzzzzz.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.62903225">
+          <caret line="37" column="37" selection-start-line="37" selection-start-column="37" selection-end-line="37" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/work.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="20" column="11" selection-start-line="20" selection-start-column="11" selection-end-line="20" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/myWoker/yungouquanqiu.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-10.903226">
-          <caret line="265" column="41" selection-start-line="265" selection-start-column="41" selection-end-line="265" selection-end-column="41" />
+        <state vertical-scroll-proportion="-2.7868853">
+          <caret line="1688" column="19" selection-start-line="1688" selection-start-column="19" selection-end-line="1688" selection-end-column="35" />
           <folding>
-            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#2;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#1;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#li#8;n#ul#0;n#div#1;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#style#0;n#a#0;n#li#0;n#ul#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#a#0;n#li#1;n#ul#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -880,17 +1210,150 @@
             <element signature="n#style#0;n#a#0;n#li#5;n#ul#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#a#0;n#li#6;n#ul#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#a#0;n#li#7;n#ul#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#ol#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#ul#0;n#div#0;n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#li#0;n#ul#0;n#div#0;n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#h3#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#ul#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#h3#0;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#ul#0;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#2;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#h3#0;n#div#2;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#ul#0;n#div#2;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#3;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#h3#0;n#div#4;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#5;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#6;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#7;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#8;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#9;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#10;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#10;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#li#0;n#ul#0;n#div#0;n#div#10;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#li#1;n#ul#0;n#div#0;n#div#10;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#li#2;n#ul#0;n#div#0;n#div#10;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#li#3;n#ul#0;n#div#0;n#div#10;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#li#0;n#ul#0;n#div#1;n#div#10;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#li#1;n#ul#0;n#div#1;n#div#10;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a#0;n#li#1;n#ul#0;n#div#1;n#div#10;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#li#2;n#ul#0;n#div#1;n#div#10;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#li#3;n#ul#0;n#div#1;n#div#10;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a#0;n#li#3;n#ul#0;n#div#1;n#div#10;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#li#4;n#ul#0;n#div#1;n#div#10;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#li#5;n#ul#0;n#div#1;n#div#10;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a#0;n#li#5;n#ul#0;n#div#1;n#div#10;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#span#0;n#li#0;n#ul#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#li#1;n#ul#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#li#2;n#ul#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#li#3;n#ul#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#dl#1;n#div#0;n#div#1;n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#dl#2;n#div#0;n#div#1;n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#dl#3;n#div#0;n#div#1;n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#li#0;n#ul#0;n#div#0;n#div#0;n#div#1;n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#li#1;n#ul#0;n#div#0;n#div#0;n#div#1;n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#li#2;n#ul#0;n#div#0;n#div#0;n#div#1;n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#li#3;n#ul#0;n#div#0;n#div#0;n#div#1;n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#p#0;n#div#1;n#div#1;n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#li#1;n#ul#0;n#div#1;n#div#1;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#2;n#ul#0;n#div#1;n#div#1;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#3;n#ul#0;n#div#1;n#div#1;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#4;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#li#0;n#ul#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#span#0;n#a#0;n#li#1;n#ul#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#a#0;n#li#2;n#ul#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#a#0;n#li#3;n#ul#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#a#0;n#li#4;n#ul#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#a#0;n#li#5;n#ul#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#a#0;n#li#6;n#ul#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#a#0;n#li#7;n#ul#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#a#0;n#li#8;n#ul#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/myWoker/stylesheets/yungouquanqiu.css">
+    <entry file="file://$PROJECT_DIR$/myWoker/stylesheets/yungouquanqiu/yungouquanqiu.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.60229445">
-          <caret line="26" column="1" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
+        <state vertical-scroll-proportion="-1.1463414">
+          <caret line="1107" column="17" selection-start-line="1107" selection-start-column="17" selection-end-line="1107" selection-end-column="17" />
+          <folding>
+            <element signature="e#251#289#0" expanded="false" />
+            <element signature="e#326#592#0" expanded="false" />
+            <element signature="e#628#741#0" expanded="false" />
+            <element signature="e#779#808#0" expanded="false" />
+            <element signature="e#1068#1121#0" expanded="false" />
+            <element signature="e#1130#1185#0" expanded="false" />
+            <element signature="e#1208#1343#0" expanded="false" />
+            <element signature="e#1371#1418#0" expanded="false" />
+            <element signature="e#1448#1609#0" expanded="false" />
+            <element signature="e#1639#1703#0" expanded="false" />
+            <element signature="e#1713#1777#0" expanded="false" />
+            <element signature="e#1792#1851#0" expanded="false" />
+            <element signature="e#1865#1886#0" expanded="false" />
+            <element signature="e#1903#2047#0" expanded="false" />
+            <element signature="e#2056#2106#0" expanded="false" />
+            <element signature="e#2117#2147#0" expanded="false" />
+            <element signature="e#2403#2566#0" expanded="false" />
+            <element signature="e#2586#2664#0" expanded="false" />
+            <element signature="e#2700#2893#0" expanded="false" />
+            <element signature="e#2905#3156#0" expanded="false" />
+            <element signature="e#3167#3418#0" expanded="false" />
+            <element signature="e#3470#3733#0" expanded="false" />
+            <element signature="e#3764#3831#0" expanded="false" />
+            <element signature="e#3851#4019#0" expanded="false" />
+            <element signature="e#4045#4092#0" expanded="false" />
+            <element signature="e#4106#4281#0" expanded="false" />
+            <element signature="e#4310#4415#0" expanded="false" />
+            <element signature="e#4426#4470#0" expanded="false" />
+            <element signature="e#4484#4641#0" expanded="false" />
+            <element signature="e#4689#4734#0" expanded="false" />
+            <element signature="e#4754#4796#0" expanded="false" />
+            <element signature="e#4821#4842#0" expanded="false" />
+            <element signature="e#4868#4890#0" expanded="false" />
+            <element signature="e#4947#5055#0" expanded="false" />
+            <element signature="e#5261#5389#0" expanded="false" />
+            <element signature="e#5423#5561#0" expanded="false" />
+            <element signature="e#5593#5675#0" expanded="false" />
+            <element signature="e#5713#5741#0" expanded="false" />
+            <element signature="e#5779#5818#0" expanded="false" />
+            <element signature="e#5855#5928#0" expanded="false" />
+            <element signature="e#5971#6048#0" expanded="false" />
+            <element signature="e#6087#6125#0" expanded="false" />
+            <element signature="e#6170#6208#0" expanded="false" />
+            <element signature="e#6247#6318#0" expanded="false" />
+            <element signature="e#6363#6435#0" expanded="false" />
+            <element signature="e#6473#6537#0" expanded="false" />
+            <element signature="e#6580#6606#0" expanded="false" />
+            <element signature="e#6644#6691#0" expanded="false" />
+            <element signature="e#6736#6793#0" expanded="false" />
+            <element signature="e#6827#6855#0" expanded="false" />
+            <element signature="e#7109#7263#0" expanded="false" />
+            <element signature="e#7307#7334#0" expanded="false" />
+            <element signature="e#7438#7573#0" expanded="false" />
+            <element signature="e#7614#7641#0" expanded="false" />
+            <element signature="e#7894#7934#0" expanded="false" />
+            <element signature="e#12141#12182#0" expanded="false" />
+            <element signature="e#12311#12431#0" expanded="false" />
+            <element signature="e#12454#12501#0" expanded="false" />
+            <element signature="e#13331#13373#0" expanded="false" />
+            <element signature="e#13383#13512#0" expanded="false" />
+            <element signature="e#13527#13554#0" expanded="false" />
+            <element signature="e#13575#13595#0" expanded="false" />
+            <element signature="e#13622#13801#0" expanded="false" />
+            <element signature="e#13822#13843#0" expanded="false" />
+            <element signature="e#13859#13974#0" expanded="false" />
+            <element signature="e#13993#14014#0" expanded="false" />
+            <element signature="e#14042#14062#0" expanded="false" />
+            <element signature="e#14089#14109#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myWoker/javascript/yungouquanqiu.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6698873">
+          <caret line="41" column="30" selection-start-line="41" selection-start-column="30" selection-end-line="41" selection-end-column="30" />
           <folding />
         </state>
       </provider>

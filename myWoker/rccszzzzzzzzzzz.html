@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head lang="zn">
+    <meta charset="UTF-8">
+    <title>日常测试用</title>
+    <style>
+        body{background: #dfdfdf}
+        .f{
+            background: yellow;
+            padding-right: 40px;
+            margin: 20px 0;
+            position: relative;
+        }
+        .i{
+            width: 40px;
+            height: 40px;
+            position: absolute;
+            top: 0;
+            right: 0;
+            background: red;
+        }
+        .c{
+            background: blue;
+            text-align: right;
+        }
+        .d{
+            position: fixed;
+            left: 50%;
+            top: 50%;
+        }
+        .clearfloat:after{display:block;clear:both;content:"";visibility:hidden;height:0}
+        .clearfloat{zoom:1}
+    </style>
+</head>
+<body>
+
+       <div class="d">
+           <div class="f clearfloat">
+               <div class="i">123</div>
+               <div class="c">1222222222223</div>
+           </div>
+           <div class="f clearfloat">
+               <div class="i ">123</div>
+               <div class="c">123222222222222</div>
+           </div>
+           <div class="f clearfloat">
+               <div class="i" >123</div>
+               <div class="c" style="height: 50px;">122222222222223</div>
+           </div>
+       </div>
+</body>
+</html>
