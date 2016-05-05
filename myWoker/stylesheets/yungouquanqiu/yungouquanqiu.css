@@ -262,6 +262,8 @@
     background: #F3F3F3;
 }
 .topnav .topnav-box{
+    position: relative;
+    z-index: 5;
     width: 1210px;
     margin: 0 auto;
 }
