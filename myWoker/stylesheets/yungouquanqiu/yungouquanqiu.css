@@ -381,6 +381,7 @@
 .topnav .topnav-box-right .mine dl{
     visibility:hidden;
     position: absolute;
+    z-index: 10;
     top: 36px;
     left: 0;
     width:108px;

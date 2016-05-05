@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fb7f4a4b-a857-47ca-ab84-9ce0f946b503" name="默认的" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myWoker/stylesheets/yungouquanqiu/yungouquanqiu.css" afterPath="$PROJECT_DIR$/myWoker/stylesheets/yungouquanqiu/yungouquanqiu.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myWoker/yungouquanqiu.html" afterPath="$PROJECT_DIR$/myWoker/yungouquanqiu.html" />
     </list>
     <list id="0ef0d016-613c-4fd7-aa78-773fd08edac9" name="New changelist" comment="" />
@@ -38,21 +39,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.6956522">
-              <caret line="59" column="28" selection-start-line="59" selection-start-column="28" selection-end-line="59" selection-end-column="28" />
+            <state vertical-scroll-proportion="-31.870968">
+              <caret line="48" column="43" selection-start-line="48" selection-start-column="43" selection-end-line="48" selection-end-column="43" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="yungouquanqiu.css" pinned="false" current-in-tab="false">
+      <file leaf-file-name="yungouquanqiu.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/myWoker/stylesheets/yungouquanqiu/yungouquanqiu.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-133.13333">
-              <caret line="1164" column="41" selection-start-line="1164" selection-start-column="41" selection-end-line="1164" selection-end-column="41" />
+            <state vertical-scroll-proportion="0.6327212">
+              <caret line="384" column="14" selection-start-line="384" selection-start-column="14" selection-end-line="384" selection-end-column="14" />
               <folding>
                 <element signature="e#229#267#0" expanded="false" />
                 <element signature="e#304#570#0" expanded="false" />
@@ -103,21 +104,20 @@
                 <element signature="e#7573#7601#0" expanded="false" />
                 <element signature="e#7855#8009#0" expanded="false" />
                 <element signature="e#8053#8080#0" expanded="false" />
-                <element signature="e#8184#8319#0" expanded="false" />
-                <element signature="e#8360#8387#0" expanded="false" />
-                <element signature="e#8640#8680#0" expanded="false" />
-                <element signature="e#13894#13935#0" expanded="false" />
-                <element signature="e#14185#14232#0" expanded="false" />
-                <element signature="e#15062#15104#0" expanded="false" />
-                <element signature="e#15114#15243#0" expanded="false" />
-                <element signature="e#15258#15285#0" expanded="false" />
-                <element signature="e#15306#15326#0" expanded="false" />
-                <element signature="e#15353#15532#0" expanded="false" />
-                <element signature="e#15553#15574#0" expanded="false" />
-                <element signature="e#15590#15705#0" expanded="false" />
-                <element signature="e#15724#15745#0" expanded="false" />
-                <element signature="e#15773#15793#0" expanded="false" />
-                <element signature="e#15820#15840#0" expanded="false" />
+                <element signature="e#8377#8404#0" expanded="false" />
+                <element signature="e#8657#8697#0" expanded="false" />
+                <element signature="e#13911#13952#0" expanded="false" />
+                <element signature="e#14202#14249#0" expanded="false" />
+                <element signature="e#15079#15121#0" expanded="false" />
+                <element signature="e#15131#15260#0" expanded="false" />
+                <element signature="e#15275#15302#0" expanded="false" />
+                <element signature="e#15323#15343#0" expanded="false" />
+                <element signature="e#15370#15549#0" expanded="false" />
+                <element signature="e#15570#15591#0" expanded="false" />
+                <element signature="e#15607#15722#0" expanded="false" />
+                <element signature="e#15741#15762#0" expanded="false" />
+                <element signature="e#15790#15810#0" expanded="false" />
+                <element signature="e#15837#15857#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -126,15 +126,9 @@
       <file leaf-file-name="yungouquanqiu.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/myWoker/yungouquanqiu.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-1.6393442">
-              <caret line="1626" column="6" selection-start-line="1626" selection-start-column="6" selection-end-line="1626" selection-end-column="6" />
+            <state vertical-scroll-proportion="-3.0983605">
+              <caret line="57" column="65" selection-start-line="57" selection-start-column="65" selection-end-line="57" selection-end-column="69" />
               <folding>
-                <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#li#8;n#ul#0;n#div#1;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#style#0;n#a#0;n#li#0;n#ul#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#a#0;n#li#1;n#ul#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#a#0;n#li#2;n#ul#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -143,7 +137,6 @@
                 <element signature="n#style#0;n#a#0;n#li#5;n#ul#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#a#0;n#li#6;n#ul#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#a#0;n#li#7;n#ul#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -156,7 +149,6 @@
                 <element signature="n#style#0;n#li#3;n#ul#0;n#div#1;n#div#1;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#div#4;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#ul#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#5;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#style#0;n#span#0;n#a#0;n#li#1;n#ul#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#span#0;n#a#0;n#li#2;n#ul#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#span#0;n#a#0;n#li#3;n#ul#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -204,10 +196,10 @@
         <option value="$PROJECT_DIR$/myWoker/stylesheets/reset.css" />
         <option value="$PROJECT_DIR$/myWoker/cc.html" />
         <option value="$USER_HOME$/Desktop/cart0327/懒人原生jQuery飞入购物车效果/index.html" />
-        <option value="$PROJECT_DIR$/myWoker/stylesheets/yungouquanqiu/yungouquanqiu.css" />
         <option value="$PROJECT_DIR$/myWoker/javascript/yungouquanqiu.js" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/myWoker/yungouquanqiu.html" />
+        <option value="$PROJECT_DIR$/myWoker/stylesheets/yungouquanqiu/yungouquanqiu.css" />
       </list>
     </option>
   </component>
@@ -521,7 +513,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-68" y="6" width="1382" height="788" extended-state="1" />
+    <frame x="-68" y="6" width="1382" height="788" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21279761" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -913,10 +905,55 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-31.870968">
+          <caret line="48" column="43" selection-start-line="48" selection-start-column="43" selection-end-line="48" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myWoker/yungouquanqiu.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.0983605">
+          <caret line="57" column="65" selection-start-line="57" selection-start-column="65" selection-end-line="57" selection-end-column="69" />
+          <folding>
+            <element signature="n#style#0;n#a#0;n#li#0;n#ul#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#li#1;n#ul#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#li#2;n#ul#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#li#3;n#ul#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#li#4;n#ul#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#li#5;n#ul#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#li#6;n#ul#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#li#7;n#ul#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#span#0;n#li#0;n#ul#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#li#1;n#ul#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#li#2;n#ul#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#li#3;n#ul#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#1;n#ul#0;n#div#1;n#div#1;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#2;n#ul#0;n#div#1;n#div#1;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#3;n#ul#0;n#div#1;n#div#1;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#4;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#ul#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#span#0;n#a#0;n#li#1;n#ul#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#a#0;n#li#2;n#ul#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#a#0;n#li#3;n#ul#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#a#0;n#li#4;n#ul#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#a#0;n#li#5;n#ul#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#a#0;n#li#6;n#ul#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#a#0;n#li#7;n#ul#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#a#0;n#li#8;n#ul#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/myWoker/stylesheets/yungouquanqiu/yungouquanqiu.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-133.13333">
-          <caret line="1164" column="41" selection-start-line="1164" selection-start-column="41" selection-end-line="1164" selection-end-column="41" />
+        <state vertical-scroll-proportion="0.6327212">
+          <caret line="384" column="14" selection-start-line="384" selection-start-column="14" selection-end-line="384" selection-end-column="14" />
           <folding>
             <element signature="e#229#267#0" expanded="false" />
             <element signature="e#304#570#0" expanded="false" />
@@ -967,75 +1004,21 @@
             <element signature="e#7573#7601#0" expanded="false" />
             <element signature="e#7855#8009#0" expanded="false" />
             <element signature="e#8053#8080#0" expanded="false" />
-            <element signature="e#8184#8319#0" expanded="false" />
-            <element signature="e#8360#8387#0" expanded="false" />
-            <element signature="e#8640#8680#0" expanded="false" />
-            <element signature="e#13894#13935#0" expanded="false" />
-            <element signature="e#14185#14232#0" expanded="false" />
-            <element signature="e#15062#15104#0" expanded="false" />
-            <element signature="e#15114#15243#0" expanded="false" />
-            <element signature="e#15258#15285#0" expanded="false" />
-            <element signature="e#15306#15326#0" expanded="false" />
-            <element signature="e#15353#15532#0" expanded="false" />
-            <element signature="e#15553#15574#0" expanded="false" />
-            <element signature="e#15590#15705#0" expanded="false" />
-            <element signature="e#15724#15745#0" expanded="false" />
-            <element signature="e#15773#15793#0" expanded="false" />
-            <element signature="e#15820#15840#0" expanded="false" />
+            <element signature="e#8377#8404#0" expanded="false" />
+            <element signature="e#8657#8697#0" expanded="false" />
+            <element signature="e#13911#13952#0" expanded="false" />
+            <element signature="e#14202#14249#0" expanded="false" />
+            <element signature="e#15079#15121#0" expanded="false" />
+            <element signature="e#15131#15260#0" expanded="false" />
+            <element signature="e#15275#15302#0" expanded="false" />
+            <element signature="e#15323#15343#0" expanded="false" />
+            <element signature="e#15370#15549#0" expanded="false" />
+            <element signature="e#15570#15591#0" expanded="false" />
+            <element signature="e#15607#15722#0" expanded="false" />
+            <element signature="e#15741#15762#0" expanded="false" />
+            <element signature="e#15790#15810#0" expanded="false" />
+            <element signature="e#15837#15857#0" expanded="false" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myWoker/yungouquanqiu.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.6393442">
-          <caret line="1626" column="6" selection-start-line="1626" selection-start-column="6" selection-end-line="1626" selection-end-column="6" />
-          <folding>
-            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#li#8;n#ul#0;n#div#1;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#a#0;n#li#0;n#ul#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#0;n#li#1;n#ul#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#0;n#li#2;n#ul#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#0;n#li#3;n#ul#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#0;n#li#4;n#ul#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#0;n#li#5;n#ul#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#0;n#li#6;n#ul#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#0;n#li#7;n#ul#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#span#0;n#li#0;n#ul#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#0;n#li#1;n#ul#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#0;n#li#2;n#ul#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#0;n#li#3;n#ul#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#li#1;n#ul#0;n#div#1;n#div#1;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#li#2;n#ul#0;n#div#1;n#div#1;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#li#3;n#ul#0;n#div#1;n#div#1;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#div#4;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#ul#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#5;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#span#0;n#a#0;n#li#1;n#ul#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#0;n#a#0;n#li#2;n#ul#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#0;n#a#0;n#li#3;n#ul#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#0;n#a#0;n#li#4;n#ul#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#0;n#a#0;n#li#5;n#ul#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#0;n#a#0;n#li#6;n#ul#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#0;n#a#0;n#li#7;n#ul#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#0;n#a#0;n#li#8;n#ul#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6956522">
-          <caret line="59" column="28" selection-start-line="59" selection-start-column="28" selection-end-line="59" selection-end-column="28" />
-          <folding />
         </state>
       </provider>
     </entry>
