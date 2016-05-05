@@ -628,6 +628,11 @@
 /*横向导航结束*/
 /*头部菜单栏和导航区域结束*/
 /*头部结束*/
+/*身体开始*/
+#main{
+    overflow: hidden;
+}
+/*身体开始结束*/
 /*焦点图*/
 .carousel{
     position: relative;
